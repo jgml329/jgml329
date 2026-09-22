@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação`**
 
-Me chamo João Gabriel de Melo Lima, tenho 18 anos e sou Recife PE. Atualmente, estou cursando Sistemas de Informação na CESAR School. Sou apaixonado por tecnologia e busco novas experiências na área.
+Me chamo João Gabriel de Melo Lima, tenho 18 anos e sou de Recife PE. Atualmente, estou cursando Sistemas de Informação na CESAR School. Sou apaixonado por tecnologia e busco novas experiências na área.
 
 ### 🤖 Linguagens e Tecnologias
 
